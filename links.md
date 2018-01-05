@@ -25,6 +25,7 @@
 * [Getting more women speakers](https://geekfeminism.org/2009/08/11/ten-tips-for-getting-more-women-speaker/)
 * [Github's diversity stats](https://diversity.github.com/)
 * [Bechdel Test](http://bechdeltest.com/)
+* [How to ask about gender](https://vimeo.com/album/3953264/video/166790858)
 
 # Interesting
 * [12 Principles of Animation](http://the12principles.tumblr.com/)
